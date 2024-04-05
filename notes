@@ -1,0 +1,23 @@
+What is react ? => open source for library for building user interfaces , not a framework , focus on Ui ,rich ecosystem , 
+why learn to react > => Created and maintained by facebook .
+COMPONENT BASED ARCHITECHTURE ; 
+REACT IS DECLARATIVE = tell react what you want and react will build the actual UI
+
+
+PREREQUISITES = HTML,CSS and javascript fundamentals
+Es6 
+Javascript - 'this' Keywords,filter, map and reduce method
+ES6 - let & const , arrow functions , template literals , default parameters , object literals ,rest and spread operators and destructuring assignment.
+
+
+fUndamentals => HTTP => Routing => Redux => Utilities
+
+
+
+* npx = npm package runner which gate install when you install node
+npx create-react-app<projet_name>
+*npm = npm install create - react - app -g
+
+4. COMPONENTs ; 5 COMPONENT header , sidenav, main content, footer
+Component Types - stateless functional component = javascript functions
+stateful Class Component - class extending Component class render method returning HTML
